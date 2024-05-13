@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErikSkjenna
+- 👋 Hi, I’m @ErikSkjenna (FatherOfAllHominids previously)
 - 👀 I’m interested in Video Game Dev and Creating Custom Algorithms
 - 🌱 I’m currently learning AI devellopement, and basic server programming
 - 💞️ I’m looking to collaborate on ANYTHING
