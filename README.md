@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikSkjenna (FatherOfAllHominids previously)
 - 👀 I’m interested in Video Game Dev and Creating Custom Algorithms
-- 🌱 I’m currently learning AI devellopement, and basic server programming
+- 🌱 I’m currently learning AI developement, and basic server programming
 - 💞️ I’m looking to collaborate on ANYTHING
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I make good Chicken
